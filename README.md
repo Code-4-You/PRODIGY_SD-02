@@ -1,2 +1,2 @@
-# PRODIGY_SD-02
-Number Guessing Game
+# Number Guessing Game
+I have made a Number Guessing Game using Java.
